@@ -2,7 +2,7 @@
 	"name": "weather-mcp",
 	"version": "1.0.0",
 	"description": "",
-	"license": "MIT",
+	"license": "UNLICENSED",
 	"author": "",
 	"type": "module",
 	"main": "index.js",
