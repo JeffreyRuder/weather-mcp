@@ -6,7 +6,7 @@ building on the examples shown in the
 [official TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk). This project
 shows a server in the context of TypeScript tooling.
 
-![weather](https://github.com/user-attachments/assets/e97730c3-837d-4ce1-adc4-8fccc7da99c1)
+<img width="738" height="629" alt="image of weather mcp in use in Cursor" src="https://github.com/user-attachments/assets/d3a4be21-aff2-4314-9d63-1272fa792377" />
 
 ## Features
 
