@@ -1,0 +1,26 @@
+{
+    "search.exclude": {
+      "**/package-lock.json": true,
+      "**/node_modules": true,
+      "**/dist": true,
+      "**/build": true
+    },
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit"
+    },
+    "files.autoSave": "onFocusChange",
+    "files.trimTrailingWhitespace": true,
+    "typescript.validate.enable": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.linkedEditing": true,
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "[java]": {
+      "editor.defaultFormatter": "redhat.java"
+    },
+    "prettier.configPath": "./.prettierrc.cjs"
+  }
+  

@@ -1,0 +1,38 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "strict": true,
+    "allowJs": false,
+    "sourceMap": false,
+    "module": "NodeNext",
+    "target": "esnext",
+    "lib": [
+      "es2022",
+      "dom"
+    ],
+    "moduleResolution": "NodeNext",
+    "declaration": false,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
+    // Linting
+    "forceConsistentCasingInFileNames": true,
+    "removeComments": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "preserveConstEnums": true,
+    "allowUnreachableCode": false,
+    "noUnusedLocals": true,
+    // Vite recommends the following:
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "useDefineForClassFields": true,
+    "types": [
+      "node"
+    ]
+  },
+  "exclude": [
+    "node_modules",
+    "**/dist/*"
+  ]
+}

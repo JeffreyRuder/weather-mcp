@@ -1,0 +1,26 @@
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# IDE - IntelliJ
+.idea/*
+
+# dependencies
+node_modules
+
+# test output
+**/coverage
+
+# build output
+dist
+
+# misc
+.DS_Store
+Thumbs.db
+
+# local env files
+.env
+.env*.local

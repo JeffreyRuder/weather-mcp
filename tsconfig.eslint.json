@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+      "noEmit": true,
+      "allowJs": true
+    },
+    "extends": "./tsconfig.base.json",
+    "include": [
+      ".eslintrc.cjs",
+      "i18n.config.cjs",
+      "./vite.config.ts",
+      "./vitest.config.ts",
+      "./vitest.setup.ts",
+      "./vitest.utils.tsx",
+      "./src/**/*.ts",
+      "./src/**/*.cts",
+      "./src/**/*.mts",
+      "./src/**/*.tsx",
+      "./src/**/*.js",
+      "./src/**/*.cjs",
+      "./src/**/*.mjs",
+      "./*.ts",
+      "scripts/*.cjs",
+      "./browser-automation/**/*.ts"
+    ]
+  }
+  
