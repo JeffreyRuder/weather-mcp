@@ -6,6 +6,8 @@ building on the examples shown in the
 [official TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk). This project
 shows a server in the context of TypeScript tooling.
 
+![weather_mcp](https://github.com/user-attachments/assets/5250a494-c360-4d91-91bf-dbdcf04cb9f8 "Weather MCP In Use")
+
 ## Features
 
 - **Current Weather Service**: Combines geocoding and weather data fetching into a single MCP tool
