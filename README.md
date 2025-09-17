@@ -6,7 +6,7 @@ building on the examples shown in the
 [official TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk). This project
 shows a server in the context of TypeScript tooling.
 
-![weather_mcp](https://github.com/user-attachments/assets/5250a494-c360-4d91-91bf-dbdcf04cb9f8 "Weather MCP In Use")
+![weather_mcp](https://github.com/user-attachments/assets/fc5b35e7-d4e8-4300-81a0-0cf2fcc116ef)
 
 ## Features
 
